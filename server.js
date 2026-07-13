@@ -25,9 +25,9 @@ const io = new Server(server, {
       "http://localhost:5174",
       ,
       "http://localhost:3000",
-      // "https://server-digitalmenu.onrender.com",
-      // "https://dashboard-digitalmenu.onrender.com",
-      // "https://digitalmenu-fir6.onrender.com"
+      "https://server-chickenhut.onrender.com",
+      "https://dashboard-chickenhut.onrender.com",
+      "https://chickenhut-menu.onrender.com"
     ],
     methods: ["GET", "POST"]
   }
